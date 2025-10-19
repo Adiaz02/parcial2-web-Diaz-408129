@@ -13,6 +13,6 @@
 
 <script setup>
 import Header from './components/Header.vue'
-import Sidebar from './components/Sidebar.vue'
+import Sidebar from './components/SideBar.vue'
 import Tabs from './components/Tabs.vue'
 </script>
